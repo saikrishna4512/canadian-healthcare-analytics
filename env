@@ -1,0 +1,1 @@
+EVENT_HUB_CONNECTION_STRING="Endpoint=sb://healthcare-analytics-eh.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=gywMC84AKpYWzkpDqxK4aW6bFxEgOIhus+AEhMkMQpw="
